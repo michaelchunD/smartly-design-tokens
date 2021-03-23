@@ -1,0 +1,10 @@
+{
+    "letter-spacing": {
+        "large": {
+            "value": "-0.5px"
+        },
+        "small": {
+            "value": "-0.2px"
+        }
+    }
+}
