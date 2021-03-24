@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 23 Mar 2021 00:43:07 GMT
+// Generated on Wed, 24 Mar 2021 22:06:33 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -45,7 +45,7 @@ ColorAccentOrangeBase,
 ColorRagRed,
 ColorRagAmber,
 ColorRagGreen,
-ColorDatacomBlack,
+ColorBlack,
 ColorDarkestGrey,
 ColorDarkGrey,
 ColorGrey,

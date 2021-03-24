@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 23 Mar 2021 00:43:07 GMT
+  Generated on Wed, 24 Mar 2021 22:06:33 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -40,12 +40,12 @@
   <color name="color_rag_red">#ffcf364e</color>
   <color name="color_rag_amber">#fff0b02c</color>
   <color name="color_rag_green">#ff40b549</color>
-  <color name="color_datacom_black">#ff151515</color>
-  <color name="color_darkest_grey">#ff333333</color>
-  <color name="color_dark_grey">#ff666666</color>
-  <color name="color_grey">#ff999999</color>
-  <color name="color_light_grey">#ffdadada</color>
-  <color name="color_extra_light_grey">#fff0f0f0</color>
+  <color name="color_black">#ff151515</color>
+  <color name="color_darkest_grey">#ff656565</color>
+  <color name="color_dark_grey">#ffa1a1a1</color>
+  <color name="color_grey">#ffc7c7c7</color>
+  <color name="color_light_grey">#ffe4e4e4</color>
+  <color name="color_extra_light_grey">#fff1f1f1</color>
   <color name="color_white">#ffffffff</color>
   <color name="color_error_red">#ffcf364e</color>
   

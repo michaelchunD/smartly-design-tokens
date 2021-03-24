@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 23 Mar 2021 00:43:07 GMT
+// Generated on Wed, 24 Mar 2021 22:06:33 GMT
 //
 
 import UIKit
@@ -21,14 +21,14 @@ public enum StyleDictionaryColor {
     public static let accentPinkBase = UIColor(red: 0.902, green: 0.000, blue: 0.376, alpha:1)
     public static let actionBlue = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
     public static let actionBlueHover = UIColor(red: 0.000, green: 0.247, blue: 0.737, alpha:1)
+    public static let black = UIColor(red: 0.082, green: 0.082, blue: 0.082, alpha:1)
     public static let darkBlue20 = UIColor(red: 0.808, green: 0.816, blue: 0.843, alpha:1)
     public static let darkBlue40 = UIColor(red: 0.616, green: 0.635, blue: 0.686, alpha:1)
     public static let darkBlue60 = UIColor(red: 0.424, green: 0.455, blue: 0.533, alpha:1)
     public static let darkBlue80 = UIColor(red: 0.231, green: 0.275, blue: 0.376, alpha:1)
     public static let darkBlueBase = UIColor(red: 0.039, green: 0.094, blue: 0.224, alpha:1)
-    public static let darkGrey = UIColor(red: 0.400, green: 0.400, blue: 0.400, alpha:1)
-    public static let darkestGrey = UIColor(red: 0.200, green: 0.200, blue: 0.200, alpha:1)
-    public static let datacomBlack = UIColor(red: 0.082, green: 0.082, blue: 0.082, alpha:1)
+    public static let darkGrey = UIColor(red: 0.631, green: 0.631, blue: 0.631, alpha:1)
+    public static let darkestGrey = UIColor(red: 0.396, green: 0.396, blue: 0.396, alpha:1)
     public static let datacomBlue20 = UIColor(red: 0.800, green: 0.827, blue: 0.886, alpha:1)
     public static let datacomBlue40 = UIColor(red: 0.600, green: 0.655, blue: 0.776, alpha:1)
     public static let datacomBlue60 = UIColor(red: 0.400, green: 0.482, blue: 0.663, alpha:1)
@@ -40,14 +40,14 @@ public enum StyleDictionaryColor {
     public static let extraLightBlue60 = UIColor(red: 0.937, green: 0.965, blue: 1.000, alpha:1)
     public static let extraLightBlue80 = UIColor(red: 0.918, green: 0.953, blue: 1.000, alpha:1)
     public static let extraLightBlueBase = UIColor(red: 0.898, green: 0.945, blue: 1.000, alpha:1)
-    public static let extraLightGrey = UIColor(red: 0.941, green: 0.941, blue: 0.941, alpha:1)
-    public static let grey = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha:1)
+    public static let extraLightGrey = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha:1)
+    public static let grey = UIColor(red: 0.780, green: 0.780, blue: 0.780, alpha:1)
     public static let lightBlue20 = UIColor(red: 0.890, green: 0.953, blue: 1.000, alpha:1)
     public static let lightBlue40 = UIColor(red: 0.784, green: 0.906, blue: 1.000, alpha:1)
     public static let lightBlue60 = UIColor(red: 0.675, green: 0.859, blue: 1.000, alpha:1)
     public static let lightBlue80 = UIColor(red: 0.569, green: 0.812, blue: 1.000, alpha:1)
     public static let lightBlueBase = UIColor(red: 0.463, green: 0.769, blue: 1.000, alpha:1)
-    public static let lightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
+    public static let lightGrey = UIColor(red: 0.894, green: 0.894, blue: 0.894, alpha:1)
     public static let ragAmber = UIColor(red: 0.941, green: 0.690, blue: 0.173, alpha:1)
     public static let ragGreen = UIColor(red: 0.251, green: 0.710, blue: 0.286, alpha:1)
     public static let ragRed = UIColor(red: 0.812, green: 0.212, blue: 0.306, alpha:1)

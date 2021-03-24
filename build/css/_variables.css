@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Mar 2021 00:43:07 GMT
+ * Generated on Wed, 24 Mar 2021 22:06:33 GMT
  */
 
 :root {
@@ -39,12 +39,12 @@
   --color-rag-red: #cf364e;
   --color-rag-amber: #f0b02c;
   --color-rag-green: #40b549;
-  --color-datacom-black: #151515;
-  --color-darkest-grey: #333333;
-  --color-dark-grey: #666666;
-  --color-grey: #999999;
-  --color-light-grey: #dadada;
-  --color-extra-light-grey: #f0f0f0;
+  --color-black: #151515;
+  --color-darkest-grey: #656565;
+  --color-dark-grey: #a1a1a1;
+  --color-grey: #c7c7c7;
+  --color-light-grey: #e4e4e4;
+  --color-extra-light-grey: #f1f1f1;
   --color-white: #ffffff;
   --color-error-red: #cf364e;
   --font-14-size: 14px;
@@ -67,7 +67,7 @@
   --font-80-line-height: 100px;
   --font-color-default: #0a1839;
   --font-color-cta: #0055ff;
-  --font-color-caption: #666666;
+  --font-color-caption: #a1a1a1;
   --font-h-1-size: 72px;
   --font-h-1-line-height: 80px;
   --font-h-2-size: 56px;
@@ -119,10 +119,12 @@
   --spacing-layout-07: 64px;
   --spacing-layout-08: 80px;
   --spacing-layout-09: 120px;
-  --typography-font-family-200: 'Montserrat Extra Light', sans-serif;
-  --typography-font-family-300: 'Montserrat Light', sans-serif;
-  --typography-font-family-400: 'Montserrat Regular', sans-serif;
-  --typography-font-family-500: 'Montserrat Medium', sans-serif;
-  --typography-font-family-600: 'Montserrat Semi Bold', sans-serif;
-  --typography-font-family-700: 'Montserrat Bold', sans-serif;
+  --typography-font-family-normal-300: 'BryantWeb Light', sans-serif;
+  --typography-font-family-normal-400: 'BryantWeb Regular', sans-serif;
+  --typography-font-family-normal-500: 'BryantWeb Medium', sans-serif;
+  --typography-font-family-normal-700: 'BryantWeb Bold', sans-serif;
+  --typography-font-family-alt-300: 'BryantWebLightAlt Light', sans-serif;
+  --typography-font-family-alt-400: 'BryantWebLightAlt Regular', sans-serif;
+  --typography-font-family-alt-500: 'BryantWebLightAlt Medium', sans-serif;
+  --typography-font-family-alt-700: 'BryantWebLightAlt Bold', sans-serif;
 }

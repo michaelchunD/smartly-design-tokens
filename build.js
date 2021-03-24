@@ -96,7 +96,7 @@ function getStyleDictionaryConfig(platform) {
 
 console.log('Build started...');
 
-// PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
+// PROCESS THE DESIGN TOKENS FOR THE DIFFERENT BRANDS AND PLATFORMS
 
 ['web', 'ios', 'android'].map(function (platform) {
 

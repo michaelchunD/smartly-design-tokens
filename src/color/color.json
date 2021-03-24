@@ -119,23 +119,23 @@
         "value": "#40B549"
       }
     },
-    "datacom-black": {
+    "black": {
       "value": "#151515"
     },
     "darkest-grey": {
-      "value": "#333333"
+      "value": "#656565"
     },
     "dark-grey": {
-      "value": "#666666"
+      "value": "#a1a1a1"
     },
     "grey": {
-      "value": "#999999"
+      "value": "#c7c7c7"
     },
     "light-grey": {
-      "value": "#DADADA"
+      "value": "#e4e4e4"
     },
     "extra-light-grey": {
-      "value": "#F0F0F0"
+      "value": "#f1f1f1"
     },
     "white": {
       "value": "#FFFFFF"

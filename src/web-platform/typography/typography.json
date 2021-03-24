@@ -1,23 +1,33 @@
 {
     "typography": {
         "font-family": {
-            "200": {
-                "value": "'Montserrat Extra Light', sans-serif"
+            "normal": {
+                "300": {
+                    "value": "'BryantWeb Light', sans-serif"
+                },
+                "400": {
+                    "value": "'BryantWeb Regular', sans-serif"
+                },
+                "500": {
+                    "value": "'BryantWeb Medium', sans-serif"
+                },
+                "700": {
+                    "value": "'BryantWeb Bold', sans-serif"
+                }
             },
-            "300": {
-                "value": "'Montserrat Light', sans-serif"
-            },
-            "400": {
-                "value": "'Montserrat Regular', sans-serif"
-            },
-            "500": {
-                "value": "'Montserrat Medium', sans-serif"
-            },
-            "600": {
-                "value": "'Montserrat Semi Bold', sans-serif"
-            },
-            "700": {
-                "value": "'Montserrat Bold', sans-serif"
+            "alt": {
+                "300": {
+                    "value": "'BryantWebLightAlt Light', sans-serif"
+                },
+                "400": {
+                    "value": "'BryantWebLightAlt Regular', sans-serif"
+                },
+                "500": {
+                    "value": "'BryantWebLightAlt Medium', sans-serif"
+                },
+                "700": {
+                    "value": "'BryantWebLightAlt Bold', sans-serif"
+                }
             }
         }
     }
