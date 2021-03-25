@@ -2,10 +2,10 @@
     "font": {
         "color": {
             "default": {
-                "value": "{color.dark-blue.base.value}"
+                "value": "{color.dark-grey.value}"
             },
             "cta": {
-                "value": "{color.action-blue.value}"
+                "value": "{color.green.120.value}"
             },
             "caption": {
                 "value": "{color.dark-grey.value}"

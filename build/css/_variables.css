@@ -1,48 +1,42 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Mar 2021 22:06:33 GMT
+ * Generated on Thu, 25 Mar 2021 19:24:48 GMT
  */
 
 :root {
-  --color-accent-pink-20: #faccdf;
-  --color-accent-pink-40: #f599bf;
-  --color-accent-pink-60: #f0669f;
-  --color-accent-pink-80: #eb337f;
-  --color-accent-pink-base: #e60060;
-  --color-dark-blue-20: #ced0d7;
-  --color-dark-blue-40: #9da2af;
-  --color-dark-blue-60: #6c7488;
-  --color-dark-blue-80: #3b4660;
-  --color-dark-blue-base: #0a1839;
-  --color-datacom-blue-20: #ccd3e2;
-  --color-datacom-blue-40: #99a7c6;
-  --color-datacom-blue-60: #667ba9;
-  --color-datacom-blue-80: #334f8c;
-  --color-datacom-blue-base: #002470;
-  --color-action-blue: #0055ff;
-  --color-action-blue-hover: #003fbc;
-  --color-light-blue-20: #e3f3ff;
-  --color-light-blue-40: #c8e7ff;
-  --color-light-blue-60: #acdbff;
-  --color-light-blue-80: #91cfff;
-  --color-light-blue-base: #76c4ff;
-  --color-extra-light-blue-20: #fafcff;
-  --color-extra-light-blue-40: #f5f9ff;
-  --color-extra-light-blue-60: #eff6ff;
-  --color-extra-light-blue-80: #eaf3ff;
-  --color-extra-light-blue-base: #e5f1ff;
-  --color-accent-orange-20: #fcdbd4;
-  --color-accent-orange-40: #f9b7aa;
-  --color-accent-orange-60: #f69380;
-  --color-accent-orange-80: #f36f56;
-  --color-accent-orange-base: #f04c2c;
+  --color-green-60: #e7f7e8;
+  --color-green-80: #afe4b2;
+  --color-green-120: #004412;
+  --color-green-base: #66bf6b;
+  --color-blue-60: #dcedec;
+  --color-blue-80: #c1e5ed;
+  --color-blue-120: #084062;
+  --color-blue-base: #a0dae7;
+  --color-orange-60: #ffeae0;
+  --color-orange-80: #fab78f;
+  --color-orange-120: #572203;
+  --color-orange-base: #f2692e;
+  --color-action-green: #66bf6b;
+  --color-action-green-hover: #66bf6b;
+  --color-purple-60: #f8edfe;
+  --color-purple-80: #bbafd4;
+  --color-purple-120: #2b004c;
+  --color-purple-base: #694d9f;
+  --color-yellow-60: #fff5ac;
+  --color-yellow-80: #fee957;
+  --color-yellow-120: #544600;
+  --color-yellow-base: #fddc00;
+  --color-pink-60: #fff4f8;
+  --color-pink-80: #ffd7e5;
+  --color-pink-120: #550b25;
+  --color-pink-base: #f5a1be;
   --color-rag-red: #cf364e;
   --color-rag-amber: #f0b02c;
   --color-rag-green: #40b549;
   --color-black: #151515;
-  --color-darkest-grey: #656565;
-  --color-dark-grey: #a1a1a1;
-  --color-grey: #c7c7c7;
+  --color-darkest-grey: #1a1a1a;
+  --color-dark-grey: #656565;
+  --color-grey: #a1a1a1;
   --color-light-grey: #e4e4e4;
   --color-extra-light-grey: #f1f1f1;
   --color-white: #ffffff;
@@ -65,9 +59,9 @@
   --font-64-line-height: 80px;
   --font-80-size: 80px;
   --font-80-line-height: 100px;
-  --font-color-default: #0a1839;
-  --font-color-cta: #0055ff;
-  --font-color-caption: #a1a1a1;
+  --font-color-default: #656565;
+  --font-color-cta: #004412;
+  --font-color-caption: #656565;
   --font-h-1-size: 72px;
   --font-h-1-line-height: 80px;
   --font-h-2-size: 56px;
