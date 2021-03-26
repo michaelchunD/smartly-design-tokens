@@ -2,7 +2,7 @@
     "font": {
         "color": {
             "default": {
-                "value": "{color.dark-grey.value}"
+                "value": "{color.darkest-grey.value}"
             },
             "cta": {
                 "value": "{color.green.120.value}"

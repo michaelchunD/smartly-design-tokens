@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 25 Mar 2021 19:24:48 GMT
+// Generated on Fri, 26 Mar 2021 02:57:56 GMT
 //
 
 
@@ -49,5 +49,5 @@ public class StyleDictionary {
     public static let colorYellowBase = UIColor(red: 0.992, green: 0.863, blue: 0.000, alpha:1)
     public static let fontColorCaption = UIColor(red: 0.396, green: 0.396, blue: 0.396, alpha:1)
     public static let fontColorCta = UIColor(red: 0.000, green: 0.267, blue: 0.071, alpha:1)
-    public static let fontColorDefault = UIColor(red: 0.396, green: 0.396, blue: 0.396, alpha:1)
+    public static let fontColorDefault = UIColor(red: 0.102, green: 0.102, blue: 0.102, alpha:1)
 }
