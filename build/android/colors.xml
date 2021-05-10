@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 26 Apr 2021 23:36:03 GMT
+  Generated on Mon, 10 May 2021 22:31:43 GMT
 -->
 <resources>
   <color name="color_green_60">#ffe7f7e8</color>
@@ -37,7 +37,7 @@
   <color name="color_black">#ff151515</color>
   <color name="color_darkest_grey">#ff1a1a1a</color>
   <color name="color_dark_grey">#ff656565</color>
-  <color name="color_grey">#ffa1a1a1</color>
+  <color name="color_grey">#ffc7c7c7</color>
   <color name="color_light_grey">#ffe4e4e4</color>
   <color name="color_extra_light_grey">#fff1f1f1</color>
   <color name="color_white">#ffffffff</color>

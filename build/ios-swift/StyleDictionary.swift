@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 26 Apr 2021 23:36:03 GMT
+// Generated on Mon, 10 May 2021 22:31:43 GMT
 //
 
 
@@ -25,7 +25,7 @@ public class StyleDictionary {
     public static let colorGreen60 = UIColor(red: 0.906, green: 0.969, blue: 0.910, alpha:1)
     public static let colorGreen80 = UIColor(red: 0.686, green: 0.894, blue: 0.698, alpha:1)
     public static let colorGreenBase = UIColor(red: 0.400, green: 0.749, blue: 0.420, alpha:1)
-    public static let colorGrey = UIColor(red: 0.631, green: 0.631, blue: 0.631, alpha:1)
+    public static let colorGrey = UIColor(red: 0.780, green: 0.780, blue: 0.780, alpha:1)
     public static let colorLightGrey = UIColor(red: 0.894, green: 0.894, blue: 0.894, alpha:1)
     public static let colorOrange120 = UIColor(red: 0.341, green: 0.133, blue: 0.012, alpha:1)
     public static let colorOrange60 = UIColor(red: 1.000, green: 0.918, blue: 0.878, alpha:1)
